@@ -15,7 +15,7 @@ public class Persona {
         this.dni = dni;
         this.mail = mail;
     }
-    // este es un comentario para git//
+
 
     public String getNombre() {
         return nombre;
