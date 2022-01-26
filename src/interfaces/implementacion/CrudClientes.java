@@ -6,7 +6,7 @@ import model.ParDeZapatos;
 
 import java.util.ArrayList;
 
-
+//comentario
 public class CrudClientes implements iCrudClientes {
     @Override
     public ArrayList<Clientes> populate() {
